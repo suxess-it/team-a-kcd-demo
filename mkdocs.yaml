@@ -1,0 +1,8 @@
+site_name: "kcd-demo"
+site_description: "Documentation for kcd-demo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
